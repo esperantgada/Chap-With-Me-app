@@ -1,11 +1,11 @@
 This app is a small chat app that allows user to share messages between themselves or communicate.
 It uses the following technologies:
 
-#Firebase Authentication
-#Firebase RealTime Database
-#Kotlin
-#RecyclerView pattern
-#View binding class
+-Firebase Authentication
+-Firebase RealTime Database
+-Kotlin
+-RecyclerView pattern
+-View binding class
 
 The [Firebase authentication] is used to handle user logging and signing up.
 The [RealTime Database] is used to save the messages.
