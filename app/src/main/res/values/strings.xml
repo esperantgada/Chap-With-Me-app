@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chat With Me</string>
+    <string name="chatting_image">Chatting image</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="login_screen">LOGIN SCREEN</string>
+    <string name="email_address_hint">Email address</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_screen">SIGN UP SCREEN</string>
+    <string name="name">Name</string>
+    <string name="esperant">Esperant</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="sent_messages">Sent messages</string>
+    <string name="received_messages">Received Messages</string>
+</resources>
